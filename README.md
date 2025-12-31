@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]([https://i.ibb.co/Z1Kxk1H/github-banner.png](https://www.canva.com/design/DAG9EpHJTAU/3cU-ZDuBBxEZ6_FAIT-BnA/view?utm_content=DAG9EpHJTAU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcdb410817a))
+![Banner]([https://i.ibb.co/Z1Kxk1H/github-banner.png](./Banner.png)
 
 # Hi 👋, I'm Nahid  
 ### Frontend Web Developer | Programming Hero Graduate
