@@ -1,34 +1,35 @@
 <!-- Banner -->
 ![Banner](./Banner.png)
 
-# Hi 👋, I'm Nahid  
-### Frontend Web Developer | Programming Hero Graduate
+# Hi, I'm Nahidul Islam 
+### Frontend Web Developer | CSE Student
+
 
 ---
 
-## 🙋 About Me
-I am a Computer Science & Engineering student with a strong interest in frontend web development.  
+##  About Me
+I am an ongoing Computer Science & Engineering student with a strong interest in frontend web development.  
 I recently completed **Programming Hero Level-1**, where I built several real-world projects.  
 I enjoy learning modern technologies and improving my problem-solving skills.  
 
 ---
 
-## 🔭 Current Activities
-- 🌱 Exploring **Next.js**
-- 💻 Building frontend projects using **React**
-- 🚀 Improving JavaScript problem-solving skills
-- 📚 Learning backend basics (Node.js & MongoDB)
+##  Current Focus
+-  Exploring modern frameworks like **Next.js**
+-  Developing interactive UI with **React**
+-  Strengthening problem-solving skills using **JavaScript**
+-  Learning backend fundamentals with **Node.js & MongoDB**
 
 ---
 
 ## 🛠 Skills
 
 ### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![JS](https://skillicons.dev/icons?i=javascript)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend (Basic)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
@@ -42,8 +43,8 @@ I enjoy learning modern technologies and improving my problem-solving skills.
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link
-- 🐙 GitHub: https://github.com/your-username
+-  LinkedIn: linkedin.com/in/md-nahidul-islam22
+-  GitHub: https://github.com/nahid-code1
 
 ---
 
