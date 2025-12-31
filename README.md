@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]([https://i.ibb.co/Z1Kxk1H/github-banner.png](./Banner.png)
+![Banner](./Banner.png)
 
 # Hi 👋, I'm Nahid  
 ### Frontend Web Developer | Programming Hero Graduate
