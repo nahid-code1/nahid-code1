@@ -43,8 +43,9 @@ I enjoy learning modern technologies and improving my problem-solving skills.
 ---
 
 ## 🌐 Connect With Me
--  LinkedIn: linkedin.com/in/md-nahidul-islam22
--  GitHub: https://github.com/nahid-code1
+- **LinkedIn:** [linkedin.com/in/md-nahidul-islam22](https://www.linkedin.com/in/md-nahidul-islam22)
+- **GitHub:** [github.com/nahid-code1](https://github.com/nahid-code1)
+
 
 ---
 
