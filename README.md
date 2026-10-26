@@ -2,7 +2,7 @@
 ![Banner](./banner.jpg)
 
 # Hi, I'm Nahidul Islam 
-### Frontend Web Developer | CSE Student
+### Web Developer | CSE Student
 
 
 ---
