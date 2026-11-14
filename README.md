@@ -31,7 +31,7 @@ I enjoy learning modern technologies and improving my problem-solving skills.
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-### Backend (Basic)
+### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
