@@ -2,14 +2,14 @@
 ![Banner](./banner.jpg)
 
 # Hi, I'm Nahidul Islam 
-### Web Developer | CSE Student
+### Full Stack Developer | CSE Student
 
 
 ---
 
 ##  About Me
-I am an ongoing Computer Science & Engineering student with a strong interest in frontend web development.  
-I recently completed **Programming Hero Level-1**, where I built several real-world projects.  
+I am an ongoing Computer Science & Engineering student with a strong interest in full stack web development.  
+I recently completed **Programming Hero Web Development Course**, where I built several real-world projects.  
 I enjoy learning modern technologies and improving my problem-solving skills.  
 
 ---
@@ -43,7 +43,7 @@ I enjoy learning modern technologies and improving my problem-solving skills.
 ---
 
 ## 🌐 Connect With Me
-- **LinkedIn:** [linkedin.com/in/md-nahidul-islam22](https://www.linkedin.com/in/md-nahidul-islam22)
+- **LinkedIn:** [linkedin.com/in/md-nahidul-islam22](https://www.linkedin.com/in/nahidul-islam22)
 - **GitHub:** [github.com/nahid-code1](https://github.com/nahid-code1)
 
 
